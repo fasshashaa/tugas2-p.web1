@@ -79,7 +79,7 @@ f.	ridge- Mendefinisikan batas bergerigi 3D. Efeknya bergantung pada nilai warna
 Dalam HTML dan CSS, ada dua tipe utama list: Daftar tidak berurutan (ul) - item daftar ditandai dengan poin, daftar terurut (ol) - item daftar ditandai dengan angka atau huruf
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/fasshashaa/tugas2-p.web1/blob/main/ss%20code/css.PNG?raw=true)
 
 
 ## JavaScript
