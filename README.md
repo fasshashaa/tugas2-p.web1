@@ -149,4 +149,4 @@ JavaScript mendukung berbagai jenis loop:
 •	do/while- juga mengulang blok kode selama kondisi yang ditentukan benar
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/fasshashaa/tugas2-p.web1/blob/main/ss%20code/js.PNG?raw=true)
