@@ -2,6 +2,7 @@
 # LAPORAN PRAKTIKUM PEMROGRAMAN WEB 1
 
 Nama : Fassha Fanny Purwanto(230202035) 
+
 Kelas : TI-1B
 
 ## HTML 
@@ -24,7 +25,7 @@ setelah title elemen untuk menampikan favicon.
 ## Program basic HTML
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/fasshashaa/tugas2-p.web1/blob/main/ss%20code/home.PNG?raw=true)
 
 
 
